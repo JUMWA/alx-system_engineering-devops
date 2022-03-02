@@ -1,1 +1,6 @@
-cd /root
+julien@ubuntu:/tmp$ echo /root
+/home/julien
+julien@ubuntu:cd ..
+julien@ubuntu:~$ pwd
+/home/julien
+julien@ubuntu:~$

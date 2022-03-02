@@ -1,2 +1,4 @@
 cd tmp
-mkdir my_first_directory
+root/tmp:mkdir my_first_directory
+root/tmp:cd my_first_directory
+root/tmp/my_first_directory:
