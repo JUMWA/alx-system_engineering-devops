@@ -1,4 +1,2 @@
-assuming that parent directory is dir1 and working directory is dir2
-cd dir1
-cd dir2
-mv -i file.html /dir1/file1.html
+#!/bin/bash
+cp -nu file.html
